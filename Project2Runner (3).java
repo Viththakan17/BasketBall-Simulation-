@@ -6,7 +6,7 @@ public class Project2Runner {
      * 
      ******** Project Description ********
      * 
-     * Describe in plain English the overall program/program in a paragraph or 2.
+     * 
      * 
      * This is a Lakers-Themed Drawing App that is interactive graphical application 
      * development using Java Swing and 2D Graphics.The basket-ball related app enables 
@@ -38,11 +38,7 @@ public class Project2Runner {
 
      * 
      ******** 2D Graphics Requirement ********
-     *
-     * Describe in 1 paragraph how your program satisfies the requirement that
-     * there is at least 1 JPanel used for drawing something. Be clear to
-     * identify in what files and the line numbers that this panel is defined on.
-     * 
+     
      * For the drawing of the application, 2D graphics required with the use of 
      * JPanel is done. In the drawing panel of the application (CourtPanel), a 
      * basketball court is presented as that is where users can click to place 
@@ -53,11 +49,6 @@ public class Project2Runner {
 
 
      ******** Event Listener Requirement ********
-     *
-     * Describe in 1 paragraph how your program satisfies the requirement that
-     * there is at least one ActionListener, and there is additionally at least
-     * one MouseListener or ActionListener. Be clear to identify in what file
-     * and the line numbers that these listeners are defined in.
      * 
      * The event listener requirement is fulfilled with the use of the “ActionListener”
      * and the “MouseListner”. The ActionListener uses the actions such as 
