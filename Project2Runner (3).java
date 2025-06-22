@@ -2,7 +2,6 @@ public class Project2Runner {
     
     /*
      * Name: <Viththakan Sitsabesan>
-     * Student ID: <501171814>
      * 
      ******** Project Description ********
      * 
